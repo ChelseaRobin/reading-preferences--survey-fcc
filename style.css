@@ -1,0 +1,57 @@
+html{
+  font-size: 16px;
+}
+body {
+  background-color: teal;
+  color: white;
+  text-align: center;
+  border: 55px solid; color: silver;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+h1 {
+  color: gold;
+  font-size: 50px;
+}
+h2{
+  color: white;
+}
+p {
+  font-size: 23px;
+  color: gold;
+  text-align: center;
+  margin: 40px;
+}
+h3 {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  border: 2px solid; Color: gold;
+  max-width: 100%;
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+#img-caption {
+  color: white;
+  text-align: center;
+}
+ul {
+  font-size: 18px;
+  color: gold;
+  max-width: 600em;
+  margin: auto 50px auto 50px;
+  text-align: center;
+  line-height: 1.4
+}
+li {
+  margin: auto 450px ;
+}
+#tribute-link {
+  color: #dbbd5a;
+  opacity: 1;
+}
